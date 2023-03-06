@@ -1,0 +1,8 @@
+https://www.classcentral.com/help/moocs -O ./ -F "Mozilla 1.0, Sparc, Solaris 23.54.34"
+File generated automatically on Mon, 06 Mar 2023 01:20:12, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
